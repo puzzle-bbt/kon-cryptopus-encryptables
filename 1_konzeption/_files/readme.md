@@ -1,0 +1,2 @@
+# _files
+Die Dateien sind im drawio format abgespeichert. Sie können im [drawio](https://app.diagrams.net/) tool selbst wieder geöffnet und dort bearbeitet werden. Die Option befinet sich unter: `File -> Open from -> Device`
