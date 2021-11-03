@@ -1,6 +1,12 @@
-# Encryptables Dokumentation
+# Cryptopus Encryptables
 
-Die Encryptables erweitern die Cryptopus funktionalität zum speichern von Sensiblen Daten. Konkret wird die Funktionalität zum speichern von Dateien, Tokens, Secrets und Pins erweitert. Es wird dennoch nach wie vor die Funktion zum speichern von Accountdaten (Email und Passwort) bereitgestellt.
+## Ausgangslage
+
+In Cryptopus können heute Accounts mit Benutzer/Passwort, Dateien welche an Accounts angehängt sind, sowie Openshift Secrets gespeichert werden. All diese Elemente werden mithilfe eines komplexen Passworts welches auf dem Team (Teammember) gespeichert ist ver- und entschlüsselt. 
+
+## Motivation Encryptables
+
+Neben Zugangsdaten mit Benutzer/Passwort werden auch Tokens, PINs, Zertifikate, E-Mail usw. in Cryptopus gespeichert. Mit Encryptables soll ein neues Konzept eingeführt werden, das die Datenstruktur flexibler macht und alle Elemente direkt einem Ordner anhängt. Dateien werden künftig nicht mehr den Accounts sondern direkt einem Folder bzw. dadurch an ein Team angehängt.
 
 ## Phasen
 
