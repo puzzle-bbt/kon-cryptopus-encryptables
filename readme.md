@@ -8,9 +8,7 @@ In Cryptopus können heute Accounts mit Benutzer/Passwort, Dateien welche an Acc
 
 Neben Zugangsdaten mit Benutzer/Passwort werden auch Tokens, PINs, Zertifikate, E-Mail usw. in Cryptopus gespeichert. Mit Encryptables soll ein neues Konzept eingeführt werden, das die Datenstruktur flexibler macht und alle Elemente direkt einem Ordner anhängt. Dateien werden künftig nicht mehr den Accounts sondern direkt einem Folder bzw. dadurch an ein Team angehängt.
 
-## Phasen
-
-### Konzeption
+## Konzeption
 
 * 1.0 Konzept
   * 1.1 Anwendungsfälle
