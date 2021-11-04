@@ -10,9 +10,8 @@ Neben Zugangsdaten mit Benutzer/Passwort werden auch Tokens, PINs, Zertifikate, 
 
 # Ziele
 
-Die Encryptables haben primär zwei Ziele:
-1. Die Sicherheit der Gespeicherten sensiblen Daten, soll durch die verwendung eines IV (initialization Vectors) Werts bei der Verschlüsselung, erhöht werden.
-2. Mithilfe anderer Speichermöglichkeiten soll die flexibilität zum abspeichern von Daten und die übersichtlichkeit in der Applikation für Benutzer verbessert werden.
+1. Die Sicherheit der Gespeicherten sensiblen Daten, soll durch die Verwendung eines IV (initialization Vectors) Werts bei der Verschlüsselung, erhöht werden.
+2. Mithilfe anderer Speichermöglichkeiten soll die Flexibilität zum Abspeichern von Daten und die Übersichtlichkeit in der Applikation für Benutzer verbessert werden.
 
 ## Konzeption
 
