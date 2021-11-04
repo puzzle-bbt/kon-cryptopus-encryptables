@@ -10,7 +10,7 @@ Neben Zugangsdaten mit Benutzer/Passwort werden auch Tokens, PINs, Zertifikate, 
 
 # Ziele
 
-1. Die Sicherheit der Gespeicherten sensiblen Daten, soll durch die Verwendung eines IV (initialization Vectors) Werts bei der Verschlüsselung, erhöht werden.
+1. Die Sicherheit der sensitiven Daten soll durch die Verwendung eines IV (initialization Vectors) Werts bei der Verschlüsselung erhöht werden.
 2. Mithilfe anderer Speichermöglichkeiten soll die Flexibilität zum Abspeichern von Daten und die Übersichtlichkeit in der Applikation für Benutzer verbessert werden.
 
 ## Konzeption
