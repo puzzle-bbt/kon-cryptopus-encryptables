@@ -16,8 +16,8 @@ Neben Zugangsdaten mit Benutzer/Passwort werden auch Tokens, PINs, Zertifikate, 
 ## Konzeption
 
 * 1.0 Konzept
-  * 1.1 Encryptables Model
-  * 1.2 UI Anpassungen
-  * 1.3 API änderungen
-  * 1.4 Migration
-  * 1.5 Umsetzung
+  * 1.1 [Encryptables Model](1_konzeption/1.1_encryptables_model.md)
+  * 1.2 [UI Anpassungen](1_konzeption/1.2_ui_changes.md)
+  * 1.3 [API änderungen](1_konzeption/1.3_api.md)
+  * 1.4 [Migration](1_konzeption/1.4_migration.md)
+  * 1.5 [Umsetzung](1_konzeption/1.5_implementation.md)
