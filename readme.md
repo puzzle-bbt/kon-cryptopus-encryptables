@@ -21,3 +21,4 @@ Neben Zugangsdaten mit Benutzer/Passwort werden auch Tokens, PINs, Zertifikate, 
   * 1.3 [API änderungen](1_konzeption/1.3_api.md)
   * 1.4 [Migration](1_konzeption/1.4_migration.md)
   * 1.5 [Umsetzung](1_konzeption/1.5_implementation.md)
+  * 1.6 [Verschlüsselung](1_konzeption/1.6_encryption.md)
